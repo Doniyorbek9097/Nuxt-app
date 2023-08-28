@@ -18,6 +18,10 @@
 		"@nuxtjs/tailwindcss": "^5.3.3",
 		"nuxt": "3.0.0-rc.10"
 	},
+	"engines": {
+		"node": "18.16.0",
+		"npm":"9.8.1"
+	},
 	"dependencies": {
 		"@headlessui/tailwindcss": "^0.1.1",
 		"@headlessui/vue": "^1.7.1",
