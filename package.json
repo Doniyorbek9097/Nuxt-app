@@ -10,9 +10,8 @@
 		"postinstall": "nuxt prepare"
 	},
 	"author": {
-		"email": "behon.baker@yahoo.com",
-		"name": "Behon Baker",
-		"url": "https://behonbaker.com"
+		"email": "doniyorbek3322@gmail.com",
+		"name": "Doniyorbek"
 	},
 	"devDependencies": {
 		"@nuxtjs/tailwindcss": "^5.3.3",
